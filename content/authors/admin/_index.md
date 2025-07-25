@@ -26,7 +26,7 @@ role: Undergraduate Student (Sensors)
 organizations:
   - name: East China University of Science and Technology
     url: https://mech.ecust.edu.cn/
- - name: University of Windsor
+  - name: University of Windsor
     url: https://www.uwindsor.ca/engineering/electrical/
 
 # Social network links
@@ -34,9 +34,13 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:tianyiwang0805@gmail.com'
-    url: 'mailto:wang11bx@uwindsor.com'
-    url: '22011280@mail.ecust.edu.cn'
-    label: E-mail Me
+    label: Gmail
+  - icon: at-symbol
+    url: 'mailto:wang11bx@uwindsor.ca'
+    label: UWindsor
+  - icon: at-symbol
+    url: 'mailto:22011280@mail.ecust.edu.cn'
+    label: ECUST
 
 interests:
   - Smart Sensors
@@ -62,7 +66,7 @@ education:
   - area: Research Assistant (Embedded Sensor Systems)
     institution: University of Windsor (UWindsor)
     date_start: 2025-07-14
-    date_end: 2020-10-14
+    date_end: 2025-10-14
     summary: |
       Fully funded by the Mitacs Globalink Research Internship program.
       
