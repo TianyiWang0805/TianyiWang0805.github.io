@@ -115,3 +115,4 @@ languages:
 ## About Me
 
 Tianyi Wang is an undergraduate student at East China University of Science and Technology (ECUST), majoring in Process Equipment and Control Engineering. His research focuses on smart sensors, MEMS devices, and micro/nano fabrication technologies. He has led and contributed to multiple interdisciplinary projects involving hydrogel-based CO₂ sensors, ISFET pH sensors, and AI-integrated MEMS gas detection systems. As a Mitacs Globalink Research Intern at the University of Windsor, he works on embedded hardware development for environmental sensing platforms. Tianyi has co-authored several peer-reviewed papers (under review) and national patents, and has received top-tier national innovation and academic awards in China.
+---
